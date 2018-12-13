@@ -1,0 +1,56 @@
+html,body{
+    height: 100%;
+}
+#main {
+    background: url(img/chatu.jpg) center center no-repeat;
+    background-size: cover;
+    text-align: center;
+    height:100%;
+    align-items: center;
+    display: flex;
+    color: white;
+}
+.name{
+    width: 100%;
+}
+img{
+    max-width: 100%;
+}
+.page{
+    margin-right: 50px;
+    margin-left: 400px;
+}
+#navbar{
+    position:fixed;
+    width: 100%;
+    
+}
+.figure{
+margin-left: 350px;
+margin-right: 300px;
+}
+#what-we-do{
+    margin-bottom: 50px;
+}
+.last {
+    position: fixed;
+     left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:black;
+    padding: 10px;
+    color: white;
+    text-align: center;
+ }
+ .last a{
+     color: white;
+     text-decoration: none;
+     padding: 5px;
+     float: left;
+     margin-bottom: 5px;
+ }
+ i{
+    margin-bottom:0px;
+    margin-right:49px;
+    float:right;
+}
